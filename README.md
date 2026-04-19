@@ -10,7 +10,7 @@ Faça o **Claude** enviar mensagens de WhatsApp sozinho, usando a plataforma [Ch
 
 ## ⬇️ Baixar e instalar
 
-1. Baixe o arquivo **[`chatiops.skill`](./chatiops.skill?raw=true)** clicando aqui.
+1. Baixe o arquivo **[`chatiops.skill`](https://github.com/arquitetoitamar/claude-chatiops/raw/main/chatiops.skill)** clicando aqui.
 2. Abra o Claude desktop no seu computador.
 3. **Arraste o arquivo `chatiops.skill`** para dentro da janela do Claude.
 4. Clique em **Instalar** quando o Claude perguntar.
