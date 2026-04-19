@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Build artefatos do skill-creator
+evals/
+*-workspace/
+
+# Segredos — nunca comitar
+.env
+.env.local
+*.token
+chatiops_token.txt
